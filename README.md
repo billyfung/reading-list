@@ -10,3 +10,4 @@ List of books to read
 - Hunger: A Memoir of (My) Body by Roxane Gay
 - Energy and Civilization: A History by Vaclav Smi
 - 1491: New Revelations of the Americas Before Columbus by Charles C. Mann
+- The Lost City of the Monkey God: A True Story by Douglas Preston
