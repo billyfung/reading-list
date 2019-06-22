@@ -8,6 +8,6 @@ List of books to read
 - Longitude by Dava Sobel
 - Third Stage of Life by Daisaku Ikeda
 - Hunger: A Memoir of (My) Body by Roxane Gay
-- Energy and Civilization: A History by Vaclav Smi
+- ~~Energy and Civilization: A History by Vaclav Smil~~
 - 1491: New Revelations of the Americas Before Columbus by Charles C. Mann
 - The Lost City of the Monkey God: A True Story by Douglas Preston
