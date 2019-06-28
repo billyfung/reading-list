@@ -11,3 +11,9 @@ List of books to read
 - ~~Energy and Civilization: A History by Vaclav Smil~~
 - 1491: New Revelations of the Americas Before Columbus by Charles C. Mann
 - The Lost City of the Monkey God: A True Story by Douglas Preston
+- The Woman Warrior by Maxine Hong Kingston
+- Hitch 22 by Christopher Hitchens
+- Giving Up The Ghost by Hilary Mantel
+- All God's Dangers: The Life of Nate Shaw
+- Boyhood by Coetzee
+- Travels With Lizbeth by Lars Eighner
